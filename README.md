@@ -147,6 +147,6 @@ PRs improving Docker orchestration, Nginx efficiency, or the Go implementation a
 
 ---
 
-## related
+## related 
 
-- [skete](https://github.com/yourname/skete) — distillation pipeline that produces EPUBs for pushing to cella
+- [skete](https://github.com/skete-io/skete) — distillation pipeline that produces EPUBs for pushing to cella
